@@ -1,0 +1,7 @@
+com\wipro\bhanu\repository\AnalyticsRepository.class
+com\wipro\bhanu\services\AnalyticsService.class
+com\wipro\bhanu\services\AnalyticsServiceImpl.class
+com\wipro\bhanu\AnalyticsServiceApplication.class
+com\wipro\bhanu\controller\AnalyticsController.class
+com\wipro\bhanu\entity\QuizCount.class
+com\wipro\bhanu\feign\AnalyticsInterface.class

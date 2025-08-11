@@ -1,0 +1,7 @@
+D:\Microservices\Analytics-Service\src\main\java\com\wipro\bhanu\AnalyticsServiceApplication.java
+D:\Microservices\Analytics-Service\src\main\java\com\wipro\bhanu\controller\AnalyticsController.java
+D:\Microservices\Analytics-Service\src\main\java\com\wipro\bhanu\entity\QuizCount.java
+D:\Microservices\Analytics-Service\src\main\java\com\wipro\bhanu\feign\AnalyticsInterface.java
+D:\Microservices\Analytics-Service\src\main\java\com\wipro\bhanu\repository\AnalyticsRepository.java
+D:\Microservices\Analytics-Service\src\main\java\com\wipro\bhanu\services\AnalyticsService.java
+D:\Microservices\Analytics-Service\src\main\java\com\wipro\bhanu\services\AnalyticsServiceImpl.java
